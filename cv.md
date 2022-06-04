@@ -10,21 +10,21 @@
 ---
 
 ### Example code ###
-`const block=document.querySelector('.container');  
-const elementRect=block.getBoundingClientRect();  
-console.log(elementRect); 
-const block_yellow=document.querySelector('.Block-yellow');
-const elementYellow=block_yellow.getBoundingClientRect();  
-const elementYellow_Rect=elementYellow+window.pageYOffset;  
-console.log(elementYellow);  
-console.log(elementYellow_Rect); `
----
+`    const block=document.querySelector('.container');  
+     const elementRect=block.getBoundingClientRect();  
+     console.log(elementRect); 
+     const block_yellow=document.querySelector('.Block-yellow');
+     const elementYellow=block_yellow.getBoundingClientRect();  
+     const elementYellow_Rect=elementYellow+window.pageYOffset;  
+     console.log(elementYellow);  
+     console.log(elementYellow_Rect); `
 
+---
 ### Level English ###
 
 My English level is A1-A2 
----
 
+---
 ### Contacts ####
 
 - mail: n-bozh@mail.ru
