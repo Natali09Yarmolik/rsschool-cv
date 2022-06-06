@@ -48,12 +48,10 @@ body{
 .foto {
     width: 150px;
     height: 190px;
-    
 }
 .foto img{
     border: 0px solid rgb(75, 72, 72);
     border-radius: 10px/10px;
-    
 }
 .name {
     font-size: 50px;
@@ -78,25 +76,20 @@ body{
     justify-content: start;
     margin: -20px 0px;
     padding: 0px 10px;
-
 }
 .education {
     width: 98%;
     padding: 20px 0px;
-
 }
 .subTitle {
-    
     border-bottom: 3px solid rgb(246, 150, 226);
     font-size: 30px;
     font-weight: bold;
     color:rgb(178, 69, 180);
-    
 }
 .description { 
     margin-top: 15px;
 }
-
 .levelEnglish {
     width: 98%;
     padding: 20px 0px;
