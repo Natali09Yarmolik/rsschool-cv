@@ -51,6 +51,8 @@ body{
     height: 190px;
 }
 .foto img {
+    width: 150px;
+    height: 190px;
     border: 0px solid rgb(75, 72, 72);
     border-radius: 10px/10px;
 }
