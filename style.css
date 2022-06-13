@@ -19,14 +19,14 @@ h1,h2,h3,h4,h5,h6{font-size: inherit; font-weight: 400;}
 body{
     background-color: rgb(213, 157, 215);
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-    line-height: 30px;
+    font-size: 18px;
+    line-height: 25px;
     text-align: justify;
-    overflow: hidden;
+    overflow: auto;
 }
 .project {
-    width: 800px;
-    min-height: 1000px;
+    width: 700px;
+    height: 900px;
     margin: 25px auto;
     background-color: rgb(184, 247, 155);
     display: flex;
@@ -34,12 +34,13 @@ body{
     justify-content: space-between;
 }
 .content {
-    width: 700px;
+    width: 600px;
+    height:92%;
     margin: 0px auto;
 }
 .title {
     width: 100%;
-    height: 200px;
+    height: 15%;
     margin-top: 15px;
     display: flex;
     flex-direction: row;
@@ -47,12 +48,12 @@ body{
     align-items: center;
 }
 .foto {
-    width: 150px;
-    height: 190px;
+    width: 27%;
+    height: 100%;
 }
 .foto img {
-    width: 150px;
-    height: 190px;
+    width: 100%;
+    height: 100%;
     border: 0px solid rgb(75, 72, 72);
     border-radius: 10px/10px;
 }
@@ -65,7 +66,7 @@ body{
 }
 .main {
     width: 100%;
-    height:720px;
+    height: 70%;
     margin-top: 15px;
     display: flex;
     flex-direction: row;
@@ -122,22 +123,23 @@ body{
     font-size:12px;
 }
 .footer {
+    height: 8%;
     flex: 1 1 auto;
 }
 .block_footer {
-    height: 90px;
+    height: 100%;
     display: flex;
+    background-color: rgb(91, 238, 91);
     flex-direction: row;
     justify-content: space-around;
     align-items: center;
-    background-color: rgb(77, 234, 53);
 }
 .github img {
     width: 30px;
     height: 30px;
 }
 .logotype {
-    width: 100px;
+    width: 60px;
     height: 30px;
 }
 .linkCource a {
