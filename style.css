@@ -99,7 +99,7 @@ body{
     width: 98%;
     padding: 20px 0px;
 }
-.description img{
+.description img {
     width:30px;
     height:30px;
 }
@@ -132,7 +132,7 @@ body{
     align-items: center;
     background-color: rgb(77, 234, 53);
 }
-.github img{
+.github img {
     width: 30px;
     height: 30px;
 }
